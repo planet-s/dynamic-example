@@ -1,3 +1,4 @@
-factorial
-factorial.o
-libfactorial.so
+#Added by cargo
+
+/target
+**/*.rs.bk
